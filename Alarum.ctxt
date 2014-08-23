@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alarum()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Alarum\n
+comment1.params=t1\ t2
+comment1.target=java.util.Date\ chronologicalMidpoint(java.util.Date,\ java.util.Date)
+comment2.params=
+comment2.target=void\ leftPress()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n
+comment3.params=
+comment3.target=void\ rightPress()
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n
+comment4.params=
+comment4.target=long\ getDisplayTime()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.lang.String\ getDay()
+comment7.params=
+comment7.target=boolean\ done()
+numComments=8
